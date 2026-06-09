@@ -48,8 +48,3 @@ This project combines Python-based analysis and Power BI visualization to unders
 
 ## Conclusion
 This project combines Python-based analysis and Power BI visualization to understand mood patterns in Spotify music data.
-
-## Author
-Kayathri D
-* README.md
-* screenshots/
