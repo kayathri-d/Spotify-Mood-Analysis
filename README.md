@@ -35,6 +35,20 @@ Data Processing:
 ## Conclusion
 This project combines Python-based analysis and Power BI visualization to understand mood patterns in Spotify music data.
 
+
+## Project Components
+1. Data Analysis using Python (Google Colab)
+2. Interactive Dashboard using Power BI
+
+## Key Findings
+- Sad songs are the most common mood category.
+- Happy songs have the highest average danceability.
+- Energy levels vary across moods.
+- Top artists contribute a large number of tracks.
+
+## Conclusion
+This project combines Python-based analysis and Power BI visualization to understand mood patterns in Spotify music data.
+
 ## Author
 Kayathri D
 * README.md
